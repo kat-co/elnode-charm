@@ -5,3 +5,6 @@ description: |
   Elnode is typically used to quickly test front-end code by spinning up endpoints in emacs. This is more a toy-charm than anything.
 tags:
   - toy
+provides:
+  website:
+    interface: http
